@@ -1,2 +1,13 @@
 cokolwiek
 dopisuje tutaj cos
+
+
+def main():
+    print("Hello, World!")
+    print("This is a test file.")
+    print("Adding some more text here.")
+    print("And another line.")
+    print("Final line of the test file.")
+
+if __name__ == "__main__":
+   main() 
