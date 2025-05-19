@@ -1,6 +1,7 @@
 cokolwiek
 dopisuje tutaj cos
 
+kretka
 
 def main():
     print("Hello, World!")
@@ -12,3 +13,4 @@ def main():
 
 if __name__ == "__main__":
    main() 
+
